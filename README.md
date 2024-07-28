@@ -27,7 +27,7 @@ A análise é apresentada em duas frentes:
 No dashboard encontram-se as principais métricas e indicadores que permitem uma compreensão da performance da empresa.
 
 <p align="center">
-  <img src="..//imagens/dash.png" alt="Dashboard">
+  <img src="https://raw.githubusercontent.com/taylortome/assets/main/dash.png?token=GHSAT0AAAAAACUWYDQYSJ6QID6ND7B546MKZVGYAXQ" alt="Dashboard">
 </p>
 
 ### [Confira aqui o dashboard do projeto.](https://app.powerbi.com/view?r=eyJrIjoiYjZjNmUxOWMtNDU5NS00ZGRjLWE2MTgtNDZlOWZkOGE0OThlIiwidCI6ImFmYTIyYWNjLTM0MWQtNGUxMy1iYjk2LTkyZTQ3NjkyMDJlYyJ9)
