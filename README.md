@@ -1,7 +1,7 @@
 # Projeto de Análise de Dados - Farmácia Vida Saudável
 
 <p align="center">
-  <img src="https://github.com/taylortome/assets/blob/a8bfd485129be732e9aa19880c73297f8f338222/logo.png">
+  <img src="https://github.com/taylortome/assetss/blob/6b717de45cf281a11eafb3e28b26eb3be9369746/logo.png" alt="Logo da Farmácia Vida Saudável">
 </p>
 
 Este projeto consiste em uma análise de dados da Farmácia Vida Saudável, uma empresa fictícia que atua no setor de varejo farmacêutico no Brasil.
@@ -15,7 +15,7 @@ Os dados utilizados estão distribuídos em uma tabela, com informações sobre 
 O modelo lógico do banco de dados é apresentado no seguinte formato:
 
 <p align="center">
-  <img src="https://github.com/taylortome/assets/blob/f2f2ce10e894c1628d3a73073288d96c44118f2c/diagrama.png">
+  <img src="https://github.com/taylortome/assetss/blob/6b717de45cf281a11eafb3e28b26eb3be9369746/diagrama.png" alt="Modelo relacional datasets">
 </p>
 
 ## Apresentação
@@ -27,7 +27,7 @@ A análise é apresentada em duas frentes:
 No dashboard encontram-se as principais métricas e indicadores que permitem uma compreensão da performance da empresa.
 
 <p align="center">
-  <img src="https://github.com/taylortome/assets/blob/f2f2ce10e894c1628d3a73073288d96c44118f2c/dash.png" alt="Dashboard">
+  <img src="https://github.com/taylortome/assetss/blob/6b717de45cf281a11eafb3e28b26eb3be9369746/dash.png" alt="Dashboard">
 </p>
 
 ### [Confira aqui o dashboard do projeto.](https://app.powerbi.com/view?r=eyJrIjoiYjZjNmUxOWMtNDU5NS00ZGRjLWE2MTgtNDZlOWZkOGE0OThlIiwidCI6ImFmYTIyYWNjLTM0MWQtNGUxMy1iYjk2LTkyZTQ3NjkyMDJlYyJ9)
@@ -36,7 +36,7 @@ No dashboard encontram-se as principais métricas e indicadores que permitem uma
 
 Esta apresentação oferece insights aprofundados sobre diversos aspectos da empresa, incluindo análises sobre cidades, linhas de produtos, fabricantes e gerentes regionais. Além disso, ao final do documento, é elaborado um plano de ação contendo medidas visando o aprimoramento do desempenho geral da empresa.
 
-### [Análise de perdas](https://github.com/taylortome/assets/blob/f2f2ce10e894c1628d3a73073288d96c44118f2c/apresenta%C3%A7%C3%A3o.pdf).
+### [Análise de perdas](https://github.com/taylortome/pharmacy_losses_2023/blob/053fafbb50e25f9aab5fa5ad200c57a8318807dd/apresenta%C3%A7%C3%A3o.pdf)
 
 ## Ferramentas
 
