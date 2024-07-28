@@ -1,3 +1,5 @@
+--As perdas estão dentro da meta estabelecida? Se não, quanto elas excedem a meta?
+
 -- Supondo que a meta anual de perdas seja de 100000. Ajuste conforme necessário.
 SET @meta_anual = 100000;
 

@@ -1,3 +1,5 @@
+--Quais produtos têm as maiores taxas de perdas?
+
 -- Produtos com as maiores taxas de perdas
 SELECT 
     DescricaoProduto, 

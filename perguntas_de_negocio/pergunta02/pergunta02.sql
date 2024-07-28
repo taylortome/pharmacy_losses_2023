@@ -1,3 +1,5 @@
+--Quais são os principais motivos das perdas?
+
 -- Principais motivos das perdas
 SELECT 
     NaturezaMovimentacao, 

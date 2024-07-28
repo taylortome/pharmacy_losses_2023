@@ -1,3 +1,5 @@
+--Existe correlação entre determinados períodos do ano e o aumento nas perdas?
+
 -- Análise de correlação entre períodos do ano e aumento nas perdas
 SELECT 
     MONTH(DataEmissao) AS Mes, 

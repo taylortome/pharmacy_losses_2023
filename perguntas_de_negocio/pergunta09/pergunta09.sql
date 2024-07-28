@@ -1,3 +1,5 @@
+--Qual é a tendência das perdas ao longo do tempo (aumentando ou diminuindo)?
+
 -- Tendência das perdas ao longo do tempo
 SELECT 
     MONTH(DataEmissao) AS Mes, 

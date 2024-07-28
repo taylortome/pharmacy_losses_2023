@@ -1,3 +1,5 @@
+--Como as perdas estão distribuídas entre os supervisores das regiões?
+
 -- Distribuição das perdas entre os supervisores das regiões
 SELECT 
     GerenteRegional AS Supervisor, 

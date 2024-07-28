@@ -1,3 +1,5 @@
+--Quais linhas de produtos estão contribuindo mais para as perdas?
+
 -- Linhas de produtos com maiores perdas
 SELECT 
     Linha, 

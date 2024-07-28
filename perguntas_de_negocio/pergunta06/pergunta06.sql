@@ -1,3 +1,5 @@
+--Quais regiões (cidades) apresentam maiores perdas?
+
 -- Cidades com maiores perdas
 SELECT 
     Cidade, 

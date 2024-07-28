@@ -1,3 +1,5 @@
+--Quais fabricantes têm os produtos com maiores índices de perda?
+
 -- Fabricantes com os produtos com maiores índices de perda
 SELECT 
     Fabricante, 

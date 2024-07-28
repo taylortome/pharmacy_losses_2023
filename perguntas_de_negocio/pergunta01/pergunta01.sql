@@ -1,3 +1,5 @@
+-- Qual é o valor total das perdas por período (mensal, trimestral, anual)?
+
 -- Valor total das perdas por mês
 SELECT 
     MONTH(DataEmissao) AS Mes, 
