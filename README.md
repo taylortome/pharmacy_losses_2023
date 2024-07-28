@@ -15,7 +15,7 @@ Os dados utilizados estão distribuídos em uma tabela, com informações sobre 
 O modelo lógico do banco de dados é apresentado no seguinte formato:
 
 <p align="center">
-  <img src="[../imagens/diagrama.png](https://github.com/taylortome/assets/blob/main/dash.png?raw=true)" alt="Modelo relacional datasets">
+  <img src="https://github.com/taylortome/assets/blob/f2f2ce10e894c1628d3a73073288d96c44118f2c/diagrama.png">
 </p>
 
 ## Apresentação
@@ -27,7 +27,7 @@ A análise é apresentada em duas frentes:
 No dashboard encontram-se as principais métricas e indicadores que permitem uma compreensão da performance da empresa.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/taylortome/assets/main/dash.png?token=GHSAT0AAAAAACUWYDQYSJ6QID6ND7B546MKZVGYAXQ" alt="Dashboard">
+  <img src="https://github.com/taylortome/assets/blob/f2f2ce10e894c1628d3a73073288d96c44118f2c/dash.png" alt="Dashboard">
 </p>
 
 ### [Confira aqui o dashboard do projeto.](https://app.powerbi.com/view?r=eyJrIjoiYjZjNmUxOWMtNDU5NS00ZGRjLWE2MTgtNDZlOWZkOGE0OThlIiwidCI6ImFmYTIyYWNjLTM0MWQtNGUxMy1iYjk2LTkyZTQ3NjkyMDJlYyJ9)
@@ -36,7 +36,7 @@ No dashboard encontram-se as principais métricas e indicadores que permitem uma
 
 Esta apresentação oferece insights aprofundados sobre diversos aspectos da empresa, incluindo análises sobre cidades, linhas de produtos, fabricantes e gerentes regionais. Além disso, ao final do documento, é elaborado um plano de ação contendo medidas visando o aprimoramento do desempenho geral da empresa.
 
-### [Análise de perdas](../FarmaciaPerdas2023/apresentação.pdf)
+### [Análise de perdas]https://github.com/taylortome/assets/blob/f2f2ce10e894c1628d3a73073288d96c44118f2c/apresenta%C3%A7%C3%A3o.pdf
 
 ## Ferramentas
 
