@@ -1,0 +1,87 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 54.383050014693708,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 574.38305001469359,
+            "y": 470
+          },
+          "nodeIndex": "dCidade",
+          "nodeLineageTag": "7a6163ee-0160-4e21-abc6-551f9040c6c9",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 853.38305001469371,
+            "y": 476
+          },
+          "nodeIndex": "dGerente",
+          "nodeLineageTag": "29bdb37c-a189-40b9-bb77-a6061ce3d01c",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 294.38305001469359,
+            "y": 468
+          },
+          "nodeIndex": "dProduto",
+          "nodeLineageTag": "b4ac49b9-9189-48c7-aff2-98c0d0380937",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 467.14041281975426
+          },
+          "nodeIndex": "dTempo",
+          "nodeLineageTag": "7358012c-ed24-44a7-9ae5-a446e4364b5f",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 489.20156119318511,
+            "y": 0
+          },
+          "nodeIndex": "fPerdas",
+          "nodeLineageTag": "17c33c36-d0a8-442e-b50a-60b99dec98d4",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Todas as tabelas",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas as tabelas",
+  "defaultDiagram": "Todas as tabelas"
+}

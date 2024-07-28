@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../farma_vida_saudavel.SemanticModel"
+    },
+    "byConnection": null
+  }
+}

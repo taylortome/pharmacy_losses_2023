@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "farma_vida_saudavel"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "2527a14c-fa24-4655-8049-808c86b6991b"
+  }
+}
