@@ -36,7 +36,7 @@ No dashboard encontram-se as principais métricas e indicadores que permitem uma
 
 Esta apresentação oferece insights aprofundados sobre diversos aspectos da empresa, incluindo análises sobre cidades, linhas de produtos, fabricantes e gerentes regionais. Além disso, ao final do documento, é elaborado um plano de ação contendo medidas visando o aprimoramento do desempenho geral da empresa.
 
-### [Análise de perdas](https://github.com/taylortome/assetss/blob/6b717de45cf281a11eafb3e28b26eb3be9369746/apresenta%C3%A7%C3%A3o.pdf)
+### [Análise de perdas](https://github.com/taylortome/pharmacy_losses_2023/blob/053fafbb50e25f9aab5fa5ad200c57a8318807dd/apresenta%C3%A7%C3%A3o.pdf)
 
 ## Ferramentas
 
