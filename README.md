@@ -15,7 +15,7 @@ Os dados utilizados estão distribuídos em uma tabela, com informações sobre 
 O modelo lógico do banco de dados é apresentado no seguinte formato:
 
 <p align="center">
-  <img src="../imagens/diagrama.png" alt="Modelo relacional datasets">
+  <img src="[../imagens/diagrama.png](https://github.com/taylortome/assets/blob/main/dash.png?raw=true)" alt="Modelo relacional datasets">
 </p>
 
 ## Apresentação
