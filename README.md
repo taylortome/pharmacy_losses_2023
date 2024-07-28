@@ -1,7 +1,7 @@
 # Projeto de Análise de Dados - Farmácia Vida Saudável
 
 <p align="center">
-  <img src="../imagens/logo.png" alt="Logo da Farmácia Vida Saudável">
+  <img src="https://github.com/taylortome/assets/blob/a8bfd485129be732e9aa19880c73297f8f338222/logo.png">
 </p>
 
 Este projeto consiste em uma análise de dados da Farmácia Vida Saudável, uma empresa fictícia que atua no setor de varejo farmacêutico no Brasil.
@@ -36,7 +36,7 @@ No dashboard encontram-se as principais métricas e indicadores que permitem uma
 
 Esta apresentação oferece insights aprofundados sobre diversos aspectos da empresa, incluindo análises sobre cidades, linhas de produtos, fabricantes e gerentes regionais. Além disso, ao final do documento, é elaborado um plano de ação contendo medidas visando o aprimoramento do desempenho geral da empresa.
 
-### [Análise de perdas]https://github.com/taylortome/assets/blob/f2f2ce10e894c1628d3a73073288d96c44118f2c/apresenta%C3%A7%C3%A3o.pdf
+### [Análise de perdas](https://github.com/taylortome/assets/blob/f2f2ce10e894c1628d3a73073288d96c44118f2c/apresenta%C3%A7%C3%A3o.pdf).
 
 ## Ferramentas
 
